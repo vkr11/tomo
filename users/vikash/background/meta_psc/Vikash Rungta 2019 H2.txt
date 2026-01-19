@@ -1,0 +1,153 @@
+Confidential
+Your self-review and feedback about you can be downloaded for personal use
+but please use judgment and be mindful of any confidential projects that
+may be mentioned.
+
+Vikash Rungta
+Product Manager @ Menlo Park, USA
+H2 2019
+
+Page 1 of 5
+
+Performance Review
+Larry Weyer • Director, Product Management
+Submitted 2020-02-21
+
+Summarize Vikash's results and impact. Be specific about performance relative to
+goals and expectations. If Vikash is a people manager, please refer to the manager
+behaviors.
+Vikash earned a MEETS ALL rating
+1. Background
+i. Role: PM for Identity Platform / Signal
+ii. Time in role: 4 months
+2. Assessment
+a. Impact [Execution: Meets All; Strategy: Meets Most]
+1. Execute on the H2 2019 roadmap and define the H1 2020 roadmap [Execution:
+Meets All, Strategy: Meets Most]
+a. Met 100% of goals (in the face of headwinds)
+b. Established trust with the Eng and XFN partners.
+2. Drove the IC-level agreement to own Contacts infra (CCU, Phone # settings) for
+Messenger Lightspeed (didn’t ship CCU externally yet due to partnership issues)
+[Execution: Meets Most, Strategy: Meets Most]
+a. Established alignment with IC level stakeholders but not leadership
+(specifically, Messenger Growth Circle). Without leadership buy-in, there is lack of
+extreme clarity of ownership which can affect execution
+3. Reduce privacy risk (migrated FB-CP & IG-CP to purpose aware framework,
+working team agreement on source of truth for non-ads device ownership w/ Ads,
+created a mechanism designed to prevent use of address book data) [Execution:
+Meets All, Strategy: Meets Most]
+a. WRT to Address book use enforcement, the intent to create use enforcement
+for address book data was right, but without approval on the design from Privacy
+Org / CPPC - the “kill switch” the team created won't be a viable option.
+4. Delivered synchronous deletion for Messenger and Facebook Address Book
+contacts via the Managed Contacts page [Execution: Meets All, Strategy: Meets All]
+5. Delivered Q3 & Q4 Family Accounting dependencies releases via our Facebook
+and Instagram Contact Point Ownership work [Execution: Meets All, Strategy:
+Meets All]
+b. Capacity Building [Meets All]
+
+Page 2 of 5
+
+1. Interviewing for PM Community: Not applicable (within first 6 months)
+2. Improved team morale by streamlining processes, organizing team events /
+swag (great jackets)
+Summarize how Vikash can increase his impact. Be specific about performance
+relative to goals and expectations. If Vikash is a people manager, please refer to the
+manager behaviors. Some areas to consider:
+•
+•
+•
+•
+
+What you'd like Vikash to achieve
+Specific strengths you want him to leverage
+Areas where Vikash can improve
+New experiences you'd like him to gain
+
+1. Maximize your STRENGTHS
+1. Execution / Empower people to execute on their priorities [included in
+self-review]
+a. From Robert: Pushed the team to understand the purpose / value of all of our
+work.
+b. From Daniel: “The change of process in team meetings definitely is a step up.
+It's more balanced among all pillars of Signals team, it's more concise and effective”
+c. From Matt: “Pillar leads unanimously agreed that our execution significantly
+improved over the half, partly because Vikash systematically tied everything
+people worked in within every project to the big picture of what we actually want
+to achieve”
+d. From Matt: “Vikash helped the entire team understand why our collective
+work is so valuable and led everyone to focus on what would help us deliver on our
+promises rather than work whose value proposition was unclear.
+e. From Sateesh (paraphrase): Super power is his execution - ability to produce
+work quickly at the right speed, quality and prioritization
+2. Capacity Building / Relationship Building
+a. From Sateesh (paraphrase): quickly ramped in his area and earned the trust
+of everyone around him. Both of the above are hard to do in such a short times
+b. From Jessica: “Vikash actively talks to external teams such as the videos and
+events team to seek new opportunities for the team
+c. From Daniel (paraphrased): Maintains a good relationship with folks across
+the team
+d. From Daniel (paraphrased): Vikash would be a great sales guy. Despite being
+new to the company, he got to know a lot of XFN people and he helped drive
+adoptions
+3. Capacity Building / Team Health
+a. From Matt: “he is one of the most empathetic PMs I've seen at Facebook. By
+
+Page 3 of 5
+
+demonstrating care for every team member's well-being, he has lifted morale”
+b. From Robert: “Established a closer team”
+c. From Robert: “Vikash encouraged our team off-sites, swag and more human
+level interaction via the "Wassup" section of our weekly meeting. He received
+positive feedback from the team on the changes”
+2. Areas for development
+1. Strategy / Framing
+a. Define the narrative that clearly and concisely tells the story
+b. Recent example: When defining the options for Messenger Light speed CCU,
+Vikash should strive to define a clear statement of the decision required, the MECE
+set of options to meet the decision, criteria for evaluation, and the end-to-end
+process for feedback collection and decision-ing.
+2. Strategy / Vision
+a. The team wants to hear the vision (and associated plan) for how the
+“components of signals” (address book, device ID, inferred contacts, declared
+contacts) all fit together.
+b. Vikash has worked on re-setting the vision. He should drive that to
+completion .... which would include a review with CPPC and key stakeholders (ex.
+Growth Circle)
+3. Drive alignment at the Leadership level (not just IC)
+a. As outlined in the recap of the Messenger contacts infra and Address book
+use enforcement work, Vikash should strive for Leadership alignment, not just
+IC-level commitment. Examples of projects that require such alignment: 1. Signal
+coverage goals for Messenger, IG and EVEN Facebook growth; 2. Ownership of
+Messenger Contacts / CCU functionality with Messenger Growth Circle; 3. Address
+book use enforcement protection with Privacy Org.
+b. From Robert: “Our team needs to improve our privacy XFN process.“
+4. Delivery of team’s progress and accomplishments via HPMs
+a. Vikash should define a process that enables him to consistently deliver the
+team's HPM.
+b. It is my observation that Vikash efficiently collects the information but gets
+stuck on summarization and up-leveling to a non-Signals audience.
+5. Prioritization
+a. Signals has a broad scope (address books, declared contacts, inferred
+contacts, device ID's across FB (and other apps in the future). While the ENG team is
+large (15), Vikash should align investment with the stated top level team goals
+(which for H1 2020 are FB+M address book, phone coverage as well as FB Inferred
+phone SLA meet rate)
+b. From Matt: “Vikash dreams big, which is good! But what he wants Signals to
+be exceeds what Signals realistically can be (at least in my opinion), which means a
+more ruthless prioritization is necessary even for the long-term strategy”
+
+Page 4 of 5
+
+6. Capacity Building / PM Community / Interviewing
+a. After 6 months as a PM, Vikash should get calibrated on PM interviewing.
+After which point, he should meet the guidance of 2 interviews per week, 1 batch
+day per quarter
+
+H2 2019 Calibration Notes
+Rating
+Consistently Met Expectations
+
+Page 5 of 5
+
+

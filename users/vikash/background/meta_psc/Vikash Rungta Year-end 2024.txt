@@ -1,0 +1,112 @@
+Confidential
+Your self-review and feedback about you can be downloaded for personal use
+but please use judgment and be mindful of any confidential projects that
+may be mentioned.
+
+Vikash Rungta
+Product Manager @ Menlo Park, USA
+2024
+
+Page 1 of 4
+
+Self Review
+Vikash Rungta • Product Manager
+Submitted 2025-01-08
+
+What impact have you achieved in 2024? Include impact achieved, progress against
+business goals, contributions to efficiency initiatives, and building internal community
+.
+I took several areas of Marketing-Messages (MM) and helped bring them from concept
+to launch to support MM-Liquidity. Overall resulting in ~34% of MM-potential-revenue
+(19.8% WCA, 11% finserv, 4% HEC) unblocked. Launched Reach-estimated-card
+I also laid the foundation of much larger revenue unblock via building foundation of all
+custom audiences targeting, identifying path forward for signal defense, identifying
+broader regulated-vertical risks, initiating signals and measurement required for
+onboarding quality & quality-flag for optimized delivery.
+Ensured end to end Error/Warning system & Integrity for Marketing messages, without
+which the entire MM system could not be launched. Mitigated the risk of $235M in
+non-MM ads revenue loss through early analysis and mitigation of the D4 Hybrid model
+I also contributed to bring AI/ML & GenAI understanding of ~1K PM’s by building
+courses & events, while supporting hiring & mentoring goals.
+Strategy
+• WCA: Developed a strategy for a privacy-aware WCA targeting product, potentially
+increasing liquidity by ~19.8% for common campaigns. Proposed expanding the
+WCA platform to include all Custom Audiences (CA), including DFCA and MACA.
+° Drove strategic direction, identified a privacy-aware architecture, and aligned
+multiple teams towards launch.
+• ABS: Developed a privacy-aware strategy to capture read, Delivered & Click signals
+from businesses in Cloud API to OD system, enabling quality flags to be shared with
+WhatsApp.
+• Regulated Verticals: Identified and addressed regulatory risks for Marketing
+Messages, including processes and direction for Finserv, HEC, Political Ads, and
+CFPB risks, ensuring effective risk mitigation.
+• Quality: Delivered a new Quality Signals/Measurement Proposal, enabling
+measurement of different dimensions of quality. Developed a path to leverage
+these signals to build optimized delivery controls.
+• Integrity: Bootstrapped integrity understanding and identified potential integrity
+and regulatory risks. Developed a mitigation strategy in collaboration with
+cross-functional teams including Legal, Policy, and R&P.
+Execution
+
+Page 2 of 4
+
+• WCA: (a) Launched & Validated end to end WCA feature as the first Targeting
+product for MM, from concept to onboarded customers (MySkill). WCA takes up a
+19.8% ads revenue share globally, and in a zoomed-in eligible markets and
+retargeting use case scenario, its percentage is 46.5% across all campaign types. (H1
+lookback). (b) Took over execution of Reach-estimated-card when this track was
+blocking the WCA launch, resulting in unblocking all Targeting products
+• Anonymized Business Signal (Read, Delivered): Improved the quality of the MM by
+collecting message metadata signals from businesses, via generation of quality flag
+for MM. Developed a privacy-aware strategy & product to capture signals from
+businesses in Cloud API to OD system
+• Brazil Signal Defense (Deep conversion, Clicks): Ensured Defense against
+regulatory pressure for CTWA & MM for 1PD sharing. Identified the risk, mitigation
+path forward, and got the lama approved ready for execution using DC & Clicks
+• Regulated Verticals: (a) Unblocked launch of Finserv for MM-lite & Ads-manager for
+India & Brazil, expected 11% of MM revenue for ads manager, and enabling
+onboarding of banks for MM-lite, unblocking onboarding all banks. (b) Unblocked
+onboarding of HEC customers (~4% of ads revenue) (c ) Raised awareness of overall
+regulated-vertical
+• Integrity : (a) Delivered end-to-end Error/Warning system for ads manager for
+Marketing messages. (b) Mitigated the risk of $235M in non MM ads revenue loss
+through early analysis and mitigation of the D4 Hybrid model in close collaboration
+with multiple teams including SWE and EM (c ) Launched the support for legacy
+experience which was impacted with action column rollback and threatened
+breaking ads manager experience for all (d) Bootstrapped integrity understanding,
+identified strategy, and delivered products mitigating policy and regulatory risks.
+Collaborated with WABI, Integrity, Messenger, Ads, R&P Legal, and Policy teams
+• Quality: In H1, Delivered a new Quality Signals/Measurement Proposal for MM,
+enabling measurement of different dimensions of quality.
+Organizational Contribution
+• Upskilling : As part of PMx Launched a GenAI bootcamp training (373 PM’s signed
+up), “High-level ML Concepts for PMs” course (415 enrollments), Hosted first
+in-person AI/ML PM event (235 signups) and served as a recruitment ambassador.
+Gave GenAI intro training to 100s of TPMs and 35 Hardware engineers.
+• Recruitment : Acted as a recruitment ambassador, conducting introductory
+conversations with new Meta recruits.
+• Mentorship: Mentored PM (neerusharma, christinazheng) and provided interview
+support for Shweta Goyal. Hiring support for 4PMs who joined Meta.
+• Interview : Conducted many interviews and reverse shadow interview training.
+Share 1-3 strengths (work you most enjoyed and excelled at). Use the Meta Skills or
+expectations.
+1. Strategic Thinking: Excels in identifying and building strategies to mitigate risks, as
+
+Page 3 of 4
+
+seen in the Integrity and Regulated Verticals projects. Enjoys driving clarity and
+strategic direction for complex projects.
+2. Cross-functional Collaboration: Skilled at working with cross-org teams to achieve
+project goals, evident in projects involving WABI, Integrity, Messenger, Ads, R&P
+Legal, and Policy. Enjoys facilitating alignment and collaboration.
+3. Mentorship & Knowledge Sharing: Passionate about mentoring and upskilling
+colleagues, as demonstrated by mentoring PMs and launching the ML Concepts
+course for PMs.
+What are 1-2 areas you are intentionally working on to grow or improve? Use the Meta
+Skills or expectations.
+Improving Operating Cadence: Aiming to establish a better operating cadence to
+manage multiple projects efficiently, ensuring smooth execution and timely delivery.
+
+Page 4 of 4
+
+

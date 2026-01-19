@@ -1,0 +1,146 @@
+Confidential
+Your self-review and feedback about you can be downloaded for personal use
+but please use judgment and be mindful of any confidential projects that
+may be mentioned.
+
+Vikash Rungta
+Product Manager @ Menlo Park, USA
+2022
+
+Page 1 of 5
+
+Performance Review
+Anjul Bahuguna • Product Manager
+Submitted 2023-02-24
+
+Summarize Vikash's results and impact. Be specific about performance relative to
+goals and expectations. If Vikash is a people manager, refer to manager feedback and
+manager behaviors as well.
+Context
+Vikash is an IC5 PM supporting Procedural Fairness/ Equality, a product area that is at
+helm as far as derisking Meta’s Ad Revenue from upcoming AI regulations is concerned.
+Since Feb 2022, Vikash has successfully progressed the direction of the Procedural
+Fairness/Equality team from an unclear state with multiple red flags to a well-defined
+product direction. He has consistently operated as a senior PM for the last 6-9 months,
+going well beyond expectations that has changed the product team’s direction.
+What is Vikash doing well?
+• Embracing ambiguity and communicating effectively to align XFNs and Leads
+“In 2022, our Equality workstreams made remarkable progress in the face of a number
+of challenges (unique even amongst our various Ads Fairness workstreams). Vikash was
+the number 1 driver of this success. Vikash, the quintessential "Happy Warrior"
+relentlessly worked to move Equality's strategic objectives towards execution.”
+“Vikash has been an amazing partner for me and our Eng team. He has helped bring a
+lot of clarity to the equality track. We started this year off with a lot of open problems
+but we closed the year with a solid strategy and plan to scalably address all the open
+problems/fairness concerns. Vikash helped us in navigating this ambiguous space and
+brought clarity for our future investments with right priorities and in a quantifiable
+way to measure our overall progress.”
+• Demonstrating ownership on execution, helping teams unblock on KRs
+“When faced with substantive challenges like the concerns our outside counsel raised
+about the initial version of CAFE, Vikash quickly assembled and led a core team of
+engineers to develop alternatives to CAFE's technical structure.”
+“Vikash stepped up beyond his conventional PM responsibilities whenever needed to
+ensure that the team does not slow down or suffer from lack of clear direction.”
+• Accepting feedback on Capacity axis and taking measures to improve on them
+Impact in H2 2022
+Strategy
+• Expectation was to draft and align (with RAE leads) a “Long Term Strategy (3-5 years)
+
+Page 2 of 5
+
+for Procedural Fairness/ Equality”.
+• He has delivered a well thought strategy (Core Fairness: Runway to 2024), reviewed
+with RAE leads. He has also drafted and aligned on, mission, current/future state,
+thematic roadmap (ref.), risk assessment, solution options and milestone based
+execution plan for the product area.
+• He has proposed/aligned product leads and PXFN on a completely new investment
+area (CAFE) to de-risk $1.4B in annual revenue, that has been prioritized and planned
+as a P0.1 goal for H1 ‘23
+Execution:
+• Expectation was to complete 100% of >P80 goals (total 2) and 50% of P50 goals
+(total 6) in 2022 and initiate setting up of actionable metrics for the product area.
+• He has accomplished the following
+° actively completed 100% of >P80 and 50% of P50 goals set for the Equality team in
+2022, and
+° Identified clear and actionable metrics and goals that measure progress, in an
+ambiguous area of procedural fairness
+° Modeling Fairness: Relative ranking log calibration ratio, measures the calibration
+gap among PC groups
+° Labeling Fairness: Disparity in probability a user is represented, difference in
+percentage of users with zero representation between PC groups
+° Targeting Fairness. PDP & DCT
+• PDP: Deviation from having same demographic breakdown pre & post-targeting
+• DCT: Deviation from same inclusion rate across demographic at each eCVR
+• He went beyond normal means to land MF and LF goals, converting them from P50
+to high confidence and also delivered on additional scope (IA targeting risk) beyond
+the product area while prioritizing ruthlessly.
+• He has enforced product discipline in this highly complex area of AI fairness,
+turned around the team from being “applied research” KRs to product focused
+goals.
+Additionally:
+• Has kept RAE leadership well informed on the progress through SOTU and key
+updates
+• Supported PXFN process improvements for the Ads Fairness sub-pillar, prioritizing
+overall PXFN request backlog
+Capacity Highlights:
+• Team Health
+° Has helped EMs/XFNs build team morale, cohesiveness and managing talent within
+the team through building visibility for team’s high quality work.
+• XFN Collaboration
+
+Page 3 of 5
+
+° Engaged effectively with PXFNs, helping drive sub-pillar level priorities
+° Go-to person on “Core Fairness” for RAI/Social Impact and Targeting teams.
+• Org Contribution
+° Hosted 10 PM IQA session providing interview guidance to hundreds of PM,
+received 95% who were interviewing for Meta PM role, ~146 PMs ended up joining
+Meta from this program and 95% PM’s found my content useful (IQA program
+details, stats)
+° Helped 10+ PMs to find teams (4 in R&P - 1 x IC7, 2x IC6, 1 x IC4), mentored 3 PMs.
+° Evangelizing/ representing Fairness (Equity Summit, PETs) within and outside Meta
+(e.g. Google, LinkedIn, AirBnB & Pinterest via Product Equity Summit, Mozilla for
+PETs)
+° Conducting RAE (pillar) level PM meet ups and bringing in speakers/ content
+
+Summarize how Vikash can increase their impact and which skills they can develop or
+improve this year. Describe what impact at the next level would look like, leveraging
+scope and skills from Career Expectations for their role, in order to help them stretch
+and grow this year. Consider topics such as what you expect Vikash to achieve,
+strengths you want them to leverage, and areas where they can improve. See what
+Scope and Skills look like for Vikash's level here.
+
+What is Vikash expected to do better in H1 2023?
+• Creating visibility of long term view of Equality work outside Meta, with
+researchers and regulators
+I would encourage him and the Equality team to create more visibility of the work that
+we do within and outside of R&P
+• Continue working on improving executive communication
+A big focus for Vikash will be socializing these interventions with other groups such as
+R&P Leads, CoreML, etc. to generate buy-in on the team's proposals as well. This will be
+important for helping the team find the right path forward since there are pros and
+cons to each approach, and generating this alignment will help unblock the team as
+efficiently as possible.
+• Developing a prioritization framework and evangelizing it with XFNs
+As Vikash is driving initiatives, it is sometimes unclear as to why certain
+items/documents are prioritized over others. He could provide more context to the
+core team on the benefits/expected outcome for investing significant time in
+documents and the tradeoffs that would need to be made by taking on the investment
+(i.e. what would we be doing instead and why is this more important to invest time in).
+• Developing efficiency in delivery through optimized engagement of capacity
+Given that fairness is at the intersection of ML, policy, and legal, there will always be a
+lot of focus on writing and reviewing those writeups. As we, the EM/PM/TPM/Uber TL
+
+Page 4 of 5
+
+leadership pod, become more and more familiar with the team's work, we should try to
+take on such tasks more to free up the TL's and the Eng's time more. We, of course,
+leverage them whenever appropriate.
+
+2022 Year-end Ratings & Promos Calibration Notes
+Rating
+Exceeded Expectations
+
+Page 5 of 5
+
+

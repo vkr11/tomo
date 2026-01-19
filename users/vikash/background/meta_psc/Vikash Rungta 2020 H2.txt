@@ -1,0 +1,102 @@
+Confidential
+Your self-review and feedback about you can be downloaded for personal use
+but please use judgment and be mindful of any confidential projects that
+may be mentioned.
+
+Vikash Rungta
+Product Manager @ Menlo Park, USA
+H2 2020
+
+Page 1 of 4
+
+Performance Review
+Arman Ozgun • Product Manager
+Submitted 2021-03-05
+
+Summarize Vikash's results and impact. Be specific about performance relative to
+goals and expectations. If Vikash is a people manager, please refer to the manager
+behaviors.
+Impact
+• The team met 4 out of 5 critical address books, devices and contact points goals last
+half, exceeding address books upload goal.
+• You helped launch strategic initiatives critical for the org. NDX address book
+acquisition on FB Lite and FB for Android achieved 30% CTR, 2-3M high value
+friending. Your support was critical for the definition and execution of device based
+computing, launching an initial experiment for SIM API/ME contact.
+• You defined the first two year strategy for Address Books. This was an unplanned
+activity last half. You contributed with bold ideas such as expanding address books
+to businesses use cases, acquiring address books from alternative sources like Web
+based address books (gmail, outlook etc) to mitigate signal loss from phones.
+In addition to driving H2 roadmap execution and H1 planning, Vikash owns the
+two-year strategic vision for both address books and devices. To that end he
+delivered a true vision, of using our data sets to improve people's lives in a way that
+they can clearly see, and of our platform team taking end-to-end ownership of the
+specific things we do best.
+• You helped the company with 2 D&I recruitment events, mentored 5PMs, started
+and led a PM circle with 9 PMs.
+Summarize how Vikash can increase his impact. Be specific about performance
+relative to goals and expectations. If Vikash is a people manager, please refer to the
+manager behaviors. Some areas to consider:
+•
+•
+•
+•
+
+What you'd like Vikash to achieve
+Specific strengths you want him to leverage
+Areas where Vikash can improve
+New experiences you'd like him to gain
+
+Key Strengths
+• You are not afraid to take risks and aspire your team to explore bold ideas. This
+particular strength became important when developing strategies to mitigate the
+signal loss impact and forming initial strategy for new initiatives.
+
+Page 2 of 4
+
+Vikash is a bold thinker and he has been searching for new areas for the team to
+expand into by reading a lot of materials and talking to people far from our team. He
+has brought fresh ideas and new insights into the team, such as business address
+book idea in his 2 year vision slides.
+• Address books and devices have demanding and complex privacy initiatives. You
+were able to unblock your team and handle the privacy complexity and capacity
+effectively.
+Vikash led highly efficient, organized meetings with a large number of PXFN
+stakeholders, overseeing the coverage of anywhere from 5-10 thorny privacy topics
+per meeting. His work in this area makes him one of my strongest and most
+effective PMs.
+Vikash developed an efficient process for tackling: (1) privacy by design-- namely,
+floating product team proposals through PXFN syncs in order to get a gut-check as
+to how privacy would receive the proposal once submitted, which gave PXFN the
+ability to issue-spot and rectify privacy issues;
+Growth Areas
+• Vikash needs to provide better practices and processes for execution. The day to
+day requirements to make the team more effective and efficient were not met:
+Running meetings more productive with pre-reads and clear call to actions, making
+sure follow up items are closed, creating better processes to track and
+communicate progress, shielding team members from internal and external
+unplanned asks.
+Vikash does not provide clear documentation... notes on discussions ... followup
+items after meetings. Further, due to no followups work is often dropped.
+• Vikash had an increased scope last half that required him to prioritize his time and
+commitments per area. He could have proactively communicated the prioritization
+to the rest of the team to better manage expectations.
+• Vikash creates big ideas and aspirations. He encourages team to explore the work
+that is most likely to be transformative. Vikash could improve his impact by
+converting ideas to actionable plans to help team execute.
+I've noticed a few cases where the his ideas led to sync meetings but it never went
+further than that, and action items were not followed up. So I am under the
+impression that things often lose traction after people's initial investment, such as
+business address book. Without conclusions or clear next steps, it's hard to
+prioritize and convince people to work on it. I believe this has caused some
+frustration and a little bit of trust issue between Vikash and the team.
+
+Page 3 of 4
+
+H2 2020 Calibration Notes
+Rating
+Met Most Expectations
+
+Page 4 of 4
+
+

@@ -1,0 +1,274 @@
+Contact
+(408)390-1527 (Mobile)
+vikashrungta@gmail.com
+
+www.linkedin.com/in/vrungta
+(LinkedIn)
+
+Top Skills
+Teaching
+Responsible AI
+AI Safety
+
+Vikash Rungta
+
+Product - Meta Superintelligence Labs, Teach GenAI @Stanford
+Continuing Studies
+San Jose, California, United States
+
+Experience
+Meta
+7 years
+
+Lead Product Manager, Meta Superintelligence Labs
+
+Languages
+
+2024 - Present (2 years)
+San Francisco Bay Area
+
+English (Native or Bilingual)
+
+Leading at the intersection of GenAI innovation and Agentic autonomy at the
+
+Hindi (Native or Bilingual)
+
+Honors-Awards
+Teamwork Across Cisco (Award)
+YouRock Award
+
+Meta Superintelligence Lab (MSL). As the Product Manager for Llama Safety
+and Human Alignment, I bridge the gap between frontier model capabilities—
+from Llama 2 to Llama 4—and the human-centric guardrails that make them
+deployable.
+My work focuses on scaling Trust & Safety through rigorous AI Red Teaming
+and the development of sophisticated Evaluation (Eval) frameworks. I
+specialize in aligning model behavior using RLHF and Supervised Fine-Tuning
+(SFT) to enable advanced Chain of Thought (CoT) reasoning and the secure
+deployment of Autonomous Agents. By architecting multi-layer Guardrails and
+robust Governance standards, I ensure that Llama remains the most trusted
+backbone for enterprise On-prem and cloud-native AI systems.
+I also conceptualized and teach "Generative AI Bootcamp for PMs" &
+"Building AI for PMs" for Meta Product Managers, this is to prepare all PMs at
+Meta to be build using AI & GenAI technology.
+
+Lead Product Manager
+
+October 2023 - 2024 (1 year)
+San Francisco Bay Area
+Building WhatsApp "AI for Business"
+
+Head of Product
+
+2021 - 2024 (3 years)
+Menlo Park, California, United States
+Responsible & Private AI: Product Management Leader for large 0 to 1 space
+with privacy & fairness at the center of it.
+
+Page 1 of 6
+
+Ensuring Generative AI models for monetization are Responsible, Safe &
+Private. This includes working with various GenAI models, e.g. Text (like
+LLAMA series) and other Multi-modal architectures and making them safe,
+using red-teaming and various other modeling / product interventions.
+Enabling ads to be more private, personalized & Fair using Privacy Enhancing
+Technologies (PETs) and ethical AI (Responsible AI) technology. Using
+technology & algorithms to solve societal & ethical issues. Re-imagining what
+it would look like to build ads product for Housing, Employment & Credit /
+Banking sector with product equity & diversity at the heart.
+Working closely with Researchers, Regulators, Lawyers, Data scientist to solve
+this very important societal issue.
+
+Product Lead
+
+2019 - 2021 (2 years)
+San Francisco Bay Area
+Building "Real World Identities" to help bring the world closer together.
+Products that I lead:
+1. Real world friend graph - Determine how are people connected to each
+other in the real world
+2. People to Device graph - What devices you are using for Facebook,
+Messenger, Instagram & WhatsApp
+3. New Device Experiences - Enhancing the users experience when using
+Facebook, Messenger & Instagram apps on a new device
+4. Real World Identity - Connect people digital identity with their real world
+identity
+Building products with privacy, machine learning, frontend & backend
+technologies to enable growth & business impact.
+
+Stanford Continuing Studies
+Instructor - Generative AI for Product Managers
+2024 - Present (2 years)
+Stanford, California, United States
+
+Teaching the course "Generative AI for Product Managers". This course
+provides a dive into the transformative potential of Generative AI within the
+realm of product management. It's designed to equip product managers
+and technologists with the knowledge to integrate advanced AI into product
+strategy and execution.
+Page 2 of 6
+
+Register - https://continuingstudies.stanford.edu/courses/professional-andpersonal-development/generative-ai-for-product-managers/20233_BUS-25
+
+Meta Facebook
+Course Instructor - Generative AI Bootcamp For Product Manager
+2022 - 2025 (3 years)
+Menlo Park, California, United States
+
+I multiple courses at Meta to upgrade the Product Managers to be AI/GenAI
+Product Managers.
+1. "1-week GenAI Bootcamp for Product Manager" - This is taken by 800+
+Product Managers at Meta, it helps them upskill to build GenAI products.
+2. "Foundation of AI" - A course for all the Meta product managers who wants
+to build an AI product (as part of the PMx org)
+3. "Product Management Interview Q&A" - A session held by Meta to help
+product managers interviewing at Meta by learning about foundations of
+product management interviewing. Includes, Interview process, Product
+Sense, Execution, Leadership & Drive & Interview process. So far 7500 PM's
+have taken this course.
+
+Treasure Data
+Group Product Manager
+
+2019 - 2019 (less than a year)
+San Francisco Bay Area
+Customer Data Platforms (CDP) using big data and machine learning in the
+fast growing Martech sector.
+
+LawGro
+Chief Product Officer
+
+2016 - 2019 (3 years)
+San Francisco Bay Area
+Co-founded Lawgro. SAAS product that helps law firms manage & grow their
+business.
+Responsible for conceptualization, idea validation, product & Engineering.
+
+Infinera
+Lead Product Manager
+2013 - 2019 (6 years)
+San Francisco Bay Area
+
+Automation & Artificial Inteligence (AI)
+Product guy who carried various roles including Product strategy, product
+marketing, product management & Architecture/engineering.
+Page 3 of 6
+
+Last responsibility - End to end Infinera Software (PM).
+* Conceptualized, defined & developed vision of industry-leading network
+automation solution deployed for cloud providers & ISP's – enabled a
+significant reduction in total cost of ownership while improving reliability
+* Developed & executed vision for Cognitive Network – A self-driving, selfhealing network;
+* Identify, analyze competitive threats/opportunities to influence current sales &
+future product strategy
+* Define and analyze key metrics to inform decision-making and measure
+success based on data
+* Lead marketing to define & execute Go-To-Market (GTM) plan
+* Engaged with Architecture & Engineering to develop scalable microservices
+& AI based system
+
+WorkZap
+Chief Product Officer
+
+2012 - 2013 (1 year)
+San Francisco Bay Area
+Product Lead for a Human Capital Management ( HCM) SAAS product for
+Small Medium Business (SMB) - Helping Human Resource (HR) teams being
+more efficient.
+Led - Product Management, Engineering. Completed User research,
+identifying target customer, pain points, identifying key KPI, Architecture, and
+deployment.
+Validated with 5 beta customers.
+
+eLagaan
+Co-Founder
+
+2008 - 2012 (4 years)
+* Created small team to develop Software As A Service (SAAS) application for
+preparing individual tax returns in India (Think turbotax for India)
+* Acquired 30K paying customers in 3 years, resulting in multimillion $ revenue
+
+FPGA Central
+Senior Director of Product Management
+2007 - 2011 (4 years)
+San Francisco Bay Area
+
+* Conceptualized, defined & built an online community of FPGA design
+engineers
+Page 4 of 6
+
+* Grew the online community to 45K members
+* Organized multiple offline events across multiple geographies/countries
+* Built with open source software that was deployed in the cloud
+* Responsive design to enable use from mobile & tablet devices
+* Used google analytics to analyze various success and usage metrics.
+* Stack used: Linux, Apache (web server), MySQL, PHP & Python
+* project management via the use of agile methodology (SCRUM like), user
+stories etc.
+* Heave usage of advanced Microsoft Excel for further data analysis,
+evaluation of roadmap priority
+* Conducted customer surveys to learn about user pain points and use case
+analysis
+
+Cisco Systems
+ASIC Design Engineer
+
+August 2001 - September 2009 (8 years 2 months)
+San Francisco Bay Area
+Joined as a part of Auroranetics, a startup acquired by Cisco
+Delivered multiple products with scale for service provider and enterprise
+customers.
+* Design & developed multiple system boards, 10's of FPGA's , Multiple ASIC's
+related high-speed datacom products
+* Role included Concept, architecture, design, RTL, validation & reliability
+testing
+
+Auroranetics Inc.
+Senior Engineer
+
+2001 - 2001 (less than a year)
+San Francisco Bay Area
+High energy VC funded startup that got acquired by Cisco Systems in 2001.
+
+Holontech Corporation
+Senior Software Engineer
+1999 - 2000 (1 year)
+San Francisco Bay Area
+
+A startup company building load balancing switches for cloud datacenter,
+internet service providers and enterprise customers.
+* System design & development of hardware accelerated load-balancer switch
+for clusters of web servers deployed by data centres to handle a massive
+amount of incoming web traffic
+Page 5 of 6
+
+* Written algorithms to scale the solution to support multi-zone cloud
+infrastructure
+* Debug of system using various analytical tools and hooks
+* Worked with real time operating systems (RTOS) VxWorks
+* Delivered industry-leading solution in terms of speed, flexibility, scale,
+reliability & functionality
+Holontech AKA CyberIQ Systems & CeeYes software
+
+National Aerospace Labs
+Researcher & Scientist
+
+August 1997 - December 1998 (1 year 5 months)
+Bengaluru Area, India
+Development of India's flagship Parallel Supercomputer to support vast
+amount of compute resources required by NAL. Involved in design of the
+supercomputer & writing software that runs on top of them
+
+Education
+Stanford University
+Certification , Electrical Engineering · (2002 - 2005)
+
+University of Pennsylvania - The Wharton School
+Certification (Marketing - MBA Foundation), Marketing · (2014)
+
+Bangalore University
+Bachelor of Science (BS), Engineering · (1993 - 1997)
+
+Page 6 of 6
+
+

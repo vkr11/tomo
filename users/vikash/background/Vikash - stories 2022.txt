@@ -1,0 +1,90 @@
+﻿Vikash Stories 
+
+
+Vikash Life Story
+1. Who am I as an individual (demographics + family + hobby etc) 
+2. What is unique about me & what do I enjoy
+3. My professional background
+4. My value
+   1. Personal values
+   2. Leadership values 
+5. How I work 
+6. Development areas 
+7. Operating manual 
+8. Summary
+Tell me about a time when you were given (critical) feedback 
+1. Story1: Asking for help during signals tenure
+   1. Situation 
+      1. I joined Meta as the PM within “people data platform”, to build real world friend graph. This would allow us to learn about people’s relationship in the real world - and help bring them to fb/ig/msgr. This drove >1% MAU for both FB & IG & 5% of all conversations within Messenger 
+      2. This was a fairly large engg/xfn team consisting of 38 team members
+      3. We needed to hire two more PM’s but hiring was taking longer. In the meantime I needed to manage the entire team without additional PM support. I was stretched thin. 
+   2. Feedback
+      1. The feedback that I received from my manager is I should have asked for help early
+   3. Why
+      1. My thinking was to continue to deliver with the limited PM support, but being stretched thin actually meant I did drop some balls or delivered some deliverables of them with lower quality
+   4. Learning
+      1. However what I should would have done is:
+         1. Asked for help sooner
+         2. Defined priority and communicated this new priority quickly to the team/leadership
+   5. What I do now
+      1.  I clearly define the work that I will be able to prioritize and get alignment on them from the team 
+      2. I create processes to scale (better agenda, operating model definition etc) 
+      3. This allowed me to hire the two PMs and ultimately get the team to a stable situation 
+2. Other stories 
+   1. Writing better
+   2. Hiring - did not hire the SWE. Extreme ownership 
+
+
+Big ambiguous problem 
+
+
+1. Story1: PETS - Privacy ads using PETS - signal loss alternative
+   1. People’s expectations around privacy are changing, we needed to change how data was used to build ad systems - something we called privacy-ads. I am the PM for this initiative.
+   2. Situation
+      1. Apple IOS 14 changes and Google cookie depreciation brought signal loss challenges to ads space. How to keep ads relevant while keeping it private. 
+      2. While Meta was working on enhancing the current system to meet these needs, we realized that there has to be a fundamental shift thru which ads are delivered that is acceptable in the industry
+      3. This required us to develop new technology, adapt an ad model and get that accepted in the industry
+      4. This was a completely new way of building products, not just about user interface or customers or internal alignment anymore - it is about building a product that the users and the industry agrees on. Aligning people, vendors, standard bodies and regulators to define principles
+   3. Why ambiguous 
+      1. It required us to make a proposal that would be accepted by mobileOS & Browser vendors, regulators, competitors, advertisers & users. 
+      2. We don’t really know who will align and on what principles, that means we don’t control our strategy
+   4. Challenges
+      1. Internally aligning on giving up control and our unique differentiation (so that we are accepted fair) 
+      2. Defining a product team structure - XFN heavy vs engineering first 
+      3. Managing media and people’s perception - anything we did would be considered our next big play 
+      4. PETs is a complex technology not developed nor accepted by the industry. It needed to be explained to regulators, industry, users and internally 
+   5. Actions I took
+      1. Defined early on a maturity framework of how to define success (given key metrics were missing) . This also included outcome driven exit criteria and a base game plan
+      2. Drive alignment across the industry to form a new W3C standards group PATCG (Private Advertising Technology Community Group). No such group that brought mobileOS & Browsers existed. We got three of the four big guys and a few big competitors to agree to use this group to make all future proposals. Ultimately Mozilla co-authored a proposal with us, which was a big win. 
+      3. Spent a lot of time in educating people thru simple definition - blogs, videos, Industry PETS summit
+      4. Continuous internal alignment on the long term vision, risks. Defined 2025 vision of privacy-ads and drove cross company alignment. 
+      5. Gathered resources to work on project  
+   6. Failures 
+      1. Hiring 
+         1. Failed to hire folks, since they would not be able to define impact. Required a different skill
+      2. Not getting initial set of proposals out 
+   7. Conflict 
+      1. tbd
+   8. People & Team
+      1. tbd
+   9. Learning
+      1. tbd
+2. Real world friend graph 
+3. Cognitive network for infinera 
+4. Startup story
+
+
+
+
+Have you ever been in a situation where a key cross-functional partner (e.g., PM, design, analytics/data science) was missing or under-performing? How did you handle it?
+Policy - Brad 
+
+
+Evaluation: 
+1. Empathy 
+2. Lacking performance 
+3. 
+
+1. Blocker in deliverables 
+2. I reached out to this guy and see the concerns 
+3.
