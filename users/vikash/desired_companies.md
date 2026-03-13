@@ -7,7 +7,7 @@ This document tracks the target companies for IC7 / L6-L7 Senior/Principal PM ro
 | Status | Company | Culture Code / Vibe |
 |:---:|---|---|
 | 🟢 | **Amazon** | 16 Leadership Principles; "I" not "we"; Bar Raiser |
-| 🟡 | **Google** | Consensus, rigor, Googleyness, structured data |
+| 🟢 | **Google** | [Ten things we know to be true / Googleyness](./../companies/google/culture_principles.md) |
 | 🔴 | **Nvidia (NVDA)** | Speed, excellence, technical depth, directness |
 | 🔴 | **Netflix** | Freedom & Responsibility, radical candor, high talent density |
 | 🔴 | **Microsoft** | Growth mindset, collaboration, empathy, learn-it-all |
