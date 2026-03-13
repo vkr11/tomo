@@ -318,7 +318,7 @@ Convert story kernels into polished STAR narratives.
 
 #### Step 4.1: Select Your "Core 15"
 From the 35 story kernels, pick the 15 strongest:
-- The 5 "Essential Stories" from `00_master_guide.md`:
+- The 5 "Essential Stories" from `README.md`:
   1. Turnaround
   2. 0→1
   3. People Crisis
@@ -381,7 +381,7 @@ Simulate real interview conditions.
 - **Ongoing**: 2 mocks/week until interviews
 
 **Use**:
-- `00_master_guide.md` for pillar focus
+- `README.md` for pillar focus
 - `11_story_to_pillar_mapping.md` to select stories
 
 #### Step 5.2: Refine After Each Mock
@@ -432,9 +432,9 @@ After every mock:
 1. **Start Here**: Read this doc fully before starting.
 2. **Track Progress**: Check off items as you complete them.
 3. **Link to Framework**: Reference the framework docs as needed:
-   - `00_master_guide.md` (8 Pillars)
+   - `README.md` (8 Pillars)
    - `10_story_building_strategy.md` (Narrative Hierarchy)
-   - `amazon_leadership_principles.md` (LP Mapping)
+   - `../../users/vikash/stories/amazon_leadership_principles.md` (LP Mapping)
    - `11_story_to_pillar_mapping.md` (Bridge)
 4. **Iterate**: This is not linear. You'll refine stories as you practice.
 

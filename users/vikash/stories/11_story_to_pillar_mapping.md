@@ -1,6 +1,6 @@
 # Story-to-Pillar Mapping: The Bridge
 
-> **Purpose**: This document connects your **Career Epics** (from `project_inventory.md`) to the **8 Interview Pillars** (from `00_master_guide.md`). It ensures every story you tell signals the right competency.
+> **Purpose**: This document connects your **Career Epics** (from `project_inventory.md`) to the **8 Interview Pillars** (from `README.md`). It ensures every story you tell signals the right competency.
 
 ---
 
@@ -21,7 +21,7 @@
 │                                                                 │
 │  1. Strategy  2. Sense  3. Execution  4. Metrics               │
 │  5. Management  6. Leadership  7. Technical  8. Domain         │
-│  (00_master_guide.md)                                          │
+│  (README.md)                                          │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
