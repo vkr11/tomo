@@ -267,10 +267,126 @@ The same Story appears under multiple Principles — because you can tell it thr
 
 ---
 
-## Templates
+# Appendix: Templates
 
-Structured templates for each layer are in the `templates/` directory:
+Copy these templates to create your own Sagas, Epics, and Stories.
 
-- `saga_template.md` — for Sagas
-- `epic_template.md` — for Epics
-- `story_template.md` — for Stories / Keyframes
+## Saga Template
+
+```markdown
+## Saga: <NAME>
+
+- **Years**: <YYYY–YYYY>
+- **Company / org**:
+- **Role / level**:
+
+### Overview
+
+Write this as the 20–40 second pitch you would actually say out loud.
+
+- **One-liner**: <the umbrella mission in one sentence>
+- **Intro pitch**:
+  - **Context**: <macro environment, why this mattered>
+  - **Challenge**: <what made this hard>
+  - **What I Did**: <your strategic mandate>
+  - **Impact**: <headline result>
+- **Signature proof points**:
+  - <metric, launch, artifact, or external signal>
+  - <metric, launch, artifact, or external signal>
+
+### Epics inside this Saga
+
+- <Epic 1>
+- <Epic 2>
+- <Epic 3>
+
+### How to zoom in during interviews
+
+- **When asked about Strategy** → use Epic(s):
+- **When asked about Execution** → use Epic(s):
+- **When asked about Conflict / Leadership** → use Story(ies):
+```
+
+---
+
+## Epic Template
+
+```markdown
+## Epic: <NAME>
+
+- **Saga**: <link/name>
+- **Timebox**: <e.g., 2023 Q4 – 2024 Q2>
+- **One-liner**: <what changed because of this epic?>
+
+### Problem & goal
+
+- **User / customer**:
+- **Problem**:
+- **Goal / success criteria**:
+
+### Approach
+
+- **Options considered**:
+  -
+  -
+- **Decision & rationale**:
+- **Execution plan**: (phases, milestones)
+
+### Cross-functional map
+
+- **XFN partners**:
+- **Alignment mechanisms**: (reviews, docs, operating cadence)
+- **Risks & mitigations**:
+
+### Outcomes
+
+- **Metrics / impact**:
+- **What shipped**:
+- **What you'd do differently**:
+
+### Stories (keyframes) inside this Epic
+
+- **Story**: <conflict/tradeoff/failure/insight>
+- **Story**:
+- **Story**:
+```
+
+---
+
+## Story Template
+
+```markdown
+## Story: <TITLE>
+
+- **Saga**: <name>
+- **Epic**: <name>
+- **Question Categories**: (conflict, failure, ambiguity, execution, technical bet, leadership)
+- **Principles**: <your personal principles this story can be told through>
+- **Company Rubric Mapping**: <e.g., Amazon LP: Have Backbone; Google: Collaboration>
+- **Time**: <YYYY-MM>
+
+### 10-second hook (BLUF)
+
+<One sentence: what happened + your decision + outcome.>
+
+### The Story
+
+Use your preferred delivery format (STAR, Freytag's Pyramid, DIGS, or freeform):
+
+- **Setup**: <context, stakes, constraints>
+- **Core action**: <what you did, how you decided, how you aligned others>
+- **Outcome**: <result, metrics, second-order effects>
+
+### Principle Close
+
+For each Principle this story can be told through, draft a different close:
+
+- **Through <Principle A>**: <how you'd close the story emphasizing this principle>
+- **Through <Principle B>**: <how you'd close the story emphasizing this principle>
+
+### Reflection
+
+- **What I'd repeat**:
+- **What I'd avoid**:
+```
+
