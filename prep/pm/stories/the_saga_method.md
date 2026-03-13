@@ -25,6 +25,8 @@ Saga                                Question Category
 
 > **Is this overkill?** If you have fewer than 3 major career chapters, a flat list of stories may be all you need. This system pays off when you have enough depth that a flat list becomes hard to navigate under pressure.
 
+> **Where this applies:** The Saga Method is designed for **behavioral interviews** ("Tell me about a time...") and **project retrospectives**. It does *not* cover case interviews, system design questions, product sense prompts, estimation questions, or coding rounds — those require different frameworks entirely.
+
 ---
 
 # Part 1: Your Side (Supply)
