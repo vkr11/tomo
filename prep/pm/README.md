@@ -1,14 +1,8 @@
 ## PM Interview Prep Hub
 
-This folder is your **single hub for PM interview prep**. It connects your overall career goals, company targets, and daily prep work.
+Generic frameworks and methodology live in `prep/framework/`.
+User-specific content has been moved to its owner's directory:
 
-### Structure
-
-- **goals.md** – Career objectives & job search goals (moved here from `users/vikash/background`).
-- **interview_pipeline.md** – Kanban-style tracker of companies, roles, and pipeline status.
-- **prep_log.md** – Daily/weekly log of what you practiced and key learnings.
-
-For frameworks and content:
-- Use `prep/framework/00_master_guide.md` as the top-level playbook.
-- Use `prep/framework/interview_prep/google_pm_prep_guide.md` and `google_pm_interview_questions_answers.md` for Google-specific prep.
-
+- **Vikash's goals, pipeline & prep log** → [`users/vikash/strategy/`](../../users/vikash/strategy/)
+- **Vikash's story bank** → [`users/vikash/stories/`](../../users/vikash/stories/)
+- **Saga Method & templates** → [`prep/framework/saga-method/`](../framework/saga-method/)
