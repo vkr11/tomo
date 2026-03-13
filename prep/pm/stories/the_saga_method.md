@@ -45,9 +45,9 @@ A **Saga** is a major chapter of your career — defined by a company, team, and
 - A 20–40 second intro pitch you'd actually say out loud
 
 **Examples:**
-> *"I was leading Privacy and Responsible AI at Meta during the post-iOS14 era — reinventing measurement and targeting under privacy constraints without breaking advertiser value."*
+> *"I was leading the Delivery & Logistics platform at a global e-commerce giant during a period of 10x hypergrowth — reinventing our routing engine to handle scale without skyrocketing delivery costs."*
 
-> *"I was the first PM at a Series A fintech, standing up the underwriting product from scratch while we figured out product-market fit."*
+> *"I was the first PM at a Series A health-tech startup, standing up the patient data platform from scratch while navigating complex international healthcare regulations."*
 
 ---
 
@@ -67,9 +67,9 @@ An **Epic** is a sustained initiative within a Saga — typically spanning multi
 - What you'd do differently
 
 **Examples:**
-> *"Within that privacy mission, one key workstream was the Variance Reduction System — building demographic inference infrastructure to meet a DOJ mandate."*
+> *"Within that logistics mission, one key workstream was the Dynamic Routing Engine — building infrastructure to optimize delivery routes in real-time based on traffic and courier availability."*
 
-> *"My first epic at the fintech was standing up automated decisioning — replacing manual underwriting with a rules engine in 8 weeks."*
+> *"One of my first epics at the health-tech startup was the Patient Consent System — creating a unified way to manage data permissions across 15 different regional jurisdictions."*
 
 ---
 
@@ -86,7 +86,7 @@ A **Story** is a specific moment — a conflict, tradeoff, failure, or insight �
 - The raw narrative arc of what happened, what you did, and what resulted
 
 **Example hook:**
-> *"I overrode engineering's model choice for demographic inference after auditing the data myself — which ended up meeting the DOJ standard."*
+> *"I overrode the engineering team's proposed database architecture for the consent system after auditing our multi-region load requirements — which prevented a major outage during the European launch."*
 
 ---
 
@@ -114,7 +114,7 @@ A **Principle** is your personal philosophy, framework, or approach that you bri
 
 - *"I always map the opposing team's incentives before I try to align."*
 - *"When data and intuition conflict, I dig deeper into the data before overriding either."*
-- *"I treat every compliance deadline as a product opportunity, not a constraint."*
+- *"I treat every compliance requirement as a consumer trust opportunity, not a constraint."*
 
 Principles aren't lessons you learned after the fact. They're **the reason you made the decision you made** — and they're reusable across your entire career.
 
@@ -166,9 +166,9 @@ This is the core move of the Saga Method. **The same Story can be retold through
 
 | Question Asked | Principle Lens | What You Foreground | How You Close |
 |---|---|---|---|
-| *"Tell me about a failure"* | **Learn & Be Curious** | The initial model was wrong. How you discovered it. | *"What permanently changed in my approach..."* |
-| *"Tell me about a conflict"* | **Have Backbone** | The pushback from Engineering. How you held your ground. | *"The outcome validated the call..."* |
-| *"Tell me about changing direction"* | **Are Right, A Lot** | The signals that told you to pivot. The ambiguity. | *"The data I used to make the call..."* |
+| *"Tell me about a failure"* | **Learn & Be Curious** | The initial architecture choice was wrong. How you discovered it late in the cycle. | *"What permanently changed in our testing rituals..."* |
+| *"Tell me about a conflict"* | **Have Backbone** | The pushback from the Legal team on data retention. How you held your ground with user privacy data. | *"The compromise eventually met both legal and user needs..."* |
+| *"Tell me about changing direction"* | **Are Right, A Lot** | The signals that told you to pivot from manual to automated underwriting. The ambiguity. | *"The data I used to convince the CEO..."* |
 
 The Principle shapes the emphasis *and* the close. The close is what sticks with the interviewer.
 
@@ -187,14 +187,14 @@ Use whichever delivery format feels natural:
 ## In Practice
 
 **Question: "Tell me about a conflict with a partner team."**
-1. **Saga:** *"During my time leading Privacy & Responsible AI at Meta..."*
-2. **Epic:** *"...specifically during the Variance Reduction System work for HUD compliance."*
-3. **Story through Have Backbone lens:** *"We had a fundamental disagreement with Engineering on how to define 'variance.' My approach is to always understand the opposing team's incentives first..."* → [foreground: the conflict, how you held your ground, how you brought them along]
+1. **Saga:** *"During my time leading the Patient Data platform at a health-tech startup..."*
+2. **Epic:** *"...specifically during the unified Patient Consent System work for multi-region compliance."*
+3. **Story through Have Backbone lens:** *"We had a fundamental disagreement with the Legal team on data retention windows. My approach is to always understand the opposing team's incentives first..."* → [foreground: the conflict, how you held your ground, how you brought them along]
 
 **Same Story, different question: "Tell me about a time you changed direction."**
 1. **Saga:** *same*
 2. **Epic:** *same*
-3. **Story through Are Right, A Lot lens:** *"Midway through building VRS, I realized our initial model approach wouldn't meet the DOJ threshold. The signals were..."* → [foreground: the pivot decision, the ambiguity, the data that informed the call]
+3. **Story through Are Right, A Lot lens:** *"Midway through building the Consent System, I realized our initial architectural approach wouldn't meet strict European latency requirements. The signals were..."* → [foreground: the pivot decision, the ambiguity, the data that informed the call]
 
 The raw event is the same. The Principle lens reshaped what you emphasized and how you closed.
 
@@ -207,19 +207,19 @@ The raw event is the same. The Principle lens reshaped what you emphasized and h
 This is how you organize and maintain your stories. Each Story sits inside its Epic, tagged with the Principles it can be told through:
 
 ```
-SAGA: Privacy & Responsible AI (Meta, 2021–2023)
-├── Epic: VRS
-│   ├── "Model Override"       → [Have Backbone] [Dive Deep] [Learn & Be Curious]
-│   ├── "DOJ Deadline"         → [Deliver Results] [Bias for Action]
-│   └── "Defining Fairness"    → [Are Right, A Lot] [Insist on Standards]
-├── Epic: PETs / IPA
-│   ├── "Mozilla Partnership"  → [Earn Trust] [Think Big]
-│   └── "W3C PATCG Formation"  → [Think Big] [Customer Obsession]
+SAGA: Delivery & Logistics Platform (Global E-commerce, 2021–2023)
+├── Epic: Dynamic Routing Engine
+│   ├── "Database Override"    → [Have Backbone] [Dive Deep] [Learn & Be Curious]
+│   ├── "Peak Season Deadline" → [Deliver Results] [Bias for Action]
+│   └── "Courier Incentive"    → [Are Right, A Lot] [Insist on Standards]
+├── Epic: Driver Experience
+│   ├── "Fleet Partnership"    → [Earn Trust] [Think Big]
+│   └── "Payout Transparency"  → [Think Big] [Customer Obsession]
 
-SAGA: WhatsApp AI for Business (Meta, 2023–2024)
-├── Epic: MM Launch
-│   ├── "WCA Priority Fight"   → [Have Backbone] [Are Right, A Lot]
-│   └── "Holiday Crunch"       → [Deliver Results] [Bias for Action]
+SAGA: Patient Data & Compliance (Health-Tech Startup, 2023–2024)
+├── Epic: Patient Consent System
+│   ├── "Retention Conflict"   → [Have Backbone] [Are Right, A Lot]
+│   └── "Deployment Crunch"    → [Deliver Results] [Bias for Action]
 └── ...
 ```
 
@@ -229,22 +229,22 @@ The reverse index — derived from the Build View. Glance at it 5 minutes before
 
 ```
 HAVE BACKBONE; DISAGREE & COMMIT
-  → "Model Override" (VRS / Privacy AI)
-  → "WCA Priority Fight" (MM Launch / WhatsApp)
-  → "Red Team vs Launch Date" (Safety / Llama)
+  → "Database Override" (Routing Engine / E-commerce)
+  → "Retention Conflict" (Consent System / Health-Tech)
+  → "Red Team vs Launch Date" (Security / Fintech)
 
 LEARN & BE CURIOUS
-  → "Model Override" (VRS / Privacy AI)
-  → "MPC Architecture" (PETs / Privacy AI)
+  → "Database Override" (Routing Engine / E-commerce)
+  → "Architecture Deep Dive" (Consent System / Health-Tech)
 
 ARE RIGHT, A LOT
-  → "Model Override" (VRS / Privacy AI)
-  → "Defining Fairness" (VRS / Privacy AI)
-  → "WCA Priority Fight" (MM Launch / WhatsApp)
+  → "Database Override" (Routing Engine / E-commerce)
+  → "Courier Incentive" (Routing Engine / E-commerce)
+  → "Retention Conflict" (Consent System / Health-Tech)
 
 DELIVER RESULTS
-  → "DOJ Deadline" (VRS / Privacy AI)
-  → "Holiday Crunch" (MM Launch / WhatsApp)
+  → "Peak Season Deadline" (Routing Engine / E-commerce)
+  → "Deployment Crunch" (Consent System / Health-Tech)
 ```
 
 The same Story appears under multiple Principles — because you can tell it through different lenses.
