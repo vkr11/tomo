@@ -1,0 +1,181 @@
+Chain Of Thought
+Subscribe
+Sign in
+Discover more from Chain Of Thought
+I think about things, this is a summary of my thoughts. I like talking about Product Management, AI, Generative AI, Responsible AI, Real Estate, Privacy & Technology
+Over 1,000 subscribers
+Subscribe
+By subscribing, you agree Substack's
+Terms of Use
+, and acknowledge its
+Information Collection Notice
+and
+Privacy Policy
+.
+Already have an account?
+Sign in
+Decoding the Architecture of NotebookLM Podcast Feature
+Likely architecture of Google's NotebookLM Audio Overview Feature
+Vikash Rungta
+Oct 07, 2024
+4
+2
+Share
+Last week, we saw an explosion of AI-generated podcasts using Google's NotebookLM, a new tool that turns structured text into engaging audio overviews. This development has sparked conversations about how generative AI can transform content creation. You can read Google's official announcement
+here
+.
+If you're interested in building something similar, you don’t need to start with complex architectures right away. Instead, you can begin with prompt-based prototypes and then scale up using Retrieval-Augmented Generation (RAG) and data labeling for fine-tuning. This approach not only speeds up the process but also helps you refine your AI model with precision.
+Building from the Ground Up: Prompt-Based Prototyping
+The easiest way to kickstart your own AI-driven podcast system is by using structured prompts. This method allows you to test and iterate quickly without needing a full-fledged AI infrastructure. Based on the architecture shown in the image below here’s a breakdown of how you can structure your prompts to create a two-person podcast:
+Just Prompts - NotebookLM 'Audio Overview'/ Podcast
+Evolving with RAG and Data Labeling for Fine-Tuning
+Once your prompt-based prototype is generating reasonably good audio, the next step is to incorporate Retrieval-Augmented Generation (RAG) for more depth and context. This process involves integrating external knowledge sources, making your AI-generated podcasts richer and more informative.
+Likely Architecture - NotebookLM "Audio Overview"/ Podcast
+Fine-Tuning Through Data Labeling
+The most significant investment in this process will be
+data labeling
+, crucial for refining your AI model. Here’s how to approach it:
+Analyze Podcasts
+: Listen to popular podcasts and document key segments like the intro, main discussion, transitions, and conclusion. Label these sections clearly to guide your AI.
+Identify Themes
+: For podcasts that discuss specific topics, tag the sections according to the main hypothesis, supporting arguments, and counterpoints.
+Hypothesis Construction
+: Document how hosts set up the core arguments and how guests respond, noting the flow of conversation.
+Data labeling will guide the AI in producing content that not only mimics but enhances the natural flow of human dialogue in podcasts.
+I am skipping broader details like LLM security and scaling concerns, as they are not specific to this architecture and should be always a consideration.
+Conclusion
+The key takeaway from building a product like NotebookLM is that you don’t need to reinvent the wheel. Starting with prompt-based prototypes allows you to iterate quickly, and integrating RAG with precise data labeling takes your AI from basic to brilliant. The architecture outlined in the diagrams provides a straightforward roadmap for anyone looking to turn text into high-quality podcasts. With prompt engineering and a focus on data labeling, creating AI-driven content has never been more accessible.
+Demo - NotebookLM
+This is what I generated with NotebookLM for this article - don’t quite like the things that I focused on, but this article is about the architecture - so listen in.
+0:00
+-6:53
+Audio playback is not supported on your browser. Please upgrade.
+Appendix: Hands on building this based on prompt.
+The prompts are broken into the following categories:
+1. Purpose: Define Persona and Objective
+Persona
+: Imagine you’re a dynamic podcast host, aiming to engage a broad audience interested in AI and technology.
+Objective
+: Your goal is to explain how AI tools like NotebookLM can revolutionize content creation, making it accessible to both experts and beginners.
+Approach
+: Use a conversational and friendly style to break down technical concepts into relatable examples.
+2. Safety: Ensuring Accuracy and Contextual Integrity
+Rethink for Fact
+: Cross-check statements to ensure they are factual and based on verified data.
+Avoid Copyright
+: Generate content only from information that is explicitly provided or open-source.
+Only from Context
+: Limit the AI’s responses to rely solely on the data within the current context.
+3. Output: Structuring the Podcast Script
+ELI5 (Explain Like I’m Five)
+: Simplify complex AI topics to make them easily understandable for all listeners.
+Write Exact Script
+: Create a clear and concise dialogue for a two-person podcast, with distinct roles for the host and guest.
+Define Segments
+: Divide the podcast into three main parts: Introduction, Core Discussion, and Conclusion.
+Rethink to Improve
+: Continuously refine the script based on AI feedback to enhance clarity and engagement.
+Here’s a set of ready-to-use prompts for creating your own AI-driven podcast using a two-person dialogue format:
+Purpose
+
+Imagine you are the host explaining AI tools in a way that is both engaging and informative.
+
+Your goal is to break down NotebookLM's capabilities for a non-technical audience.
+
+Safety
+
+Ensure all facts presented are accurate and verified.
+
+Avoid using any proprietary or copyrighted material.
+
+Generate responses based only on the provided context.
+
+Output
+
+Simplify AI concepts to make them relatable.
+
+Write a script with two distinct voices: a knowledgeable host and a curious guest.
+
+Structure the podcast into three segments: Introduction, Key Features, and Real-World Applications.
+
+Refine the dialogue to make it as engaging as possible.
+
+Generate a podcast script for me.
+Demo - Using above prompt + ElevenLabs
+I copy pasted exact prompt from above and asked chatgpt to generate podcast for this article. Then took the output script and generated voice from ElevenLabs.
+0:00
+-5:36
+Audio playback is not supported on your browser. Please upgrade.
+Subscribe to Chain Of Thought
+By Vikash Rungta · Launched 2 years ago
+I think about things, this is a summary of my thoughts. I like talking about Product Management, AI, Generative AI, Responsible AI, Real Estate, Privacy & Technology
+Subscribe
+By subscribing, you agree Substack's
+Terms of Use
+, and acknowledge its
+Information Collection Notice
+and
+Privacy Policy
+.
+4 Likes
+4
+2
+Share
+Previous
+Next
+Discussion about this post
+Comments
+Restacks
+juan
+Feb 3, 2025
+Liked by Vikash Rungta
+"Hey, thank you so much for sharing this. I really appreciate the time you took to make it understandable. I'm working on a similar project with Spring AI, and this has provided enough insight to define my architecture.
+Like (1)
+Reply
+Share
+JP
+Feb 28
+The primitives over integrations section is the key takeaway here. I've seen it play out firsthand. For research I use a handful of bash calls and one MCP tool, all orchestrated by a skill. Three search providers, zero dedicated integrations beyond what Claude already ships with. Covered the approach here:
+https://reading.sh/how-to-build-a-solid-research-pipeline-in-claude-code-ff7878c5e2b5
+Like
+Reply
+Share
+Top
+Latest
+Discussions
+Claude Code Architecture (Reverse Engineered)
+Inside The Architecture of an Autonomous Agent
+Feb 16
+•
+Vikash Rungta
+15
+3
+The AI PM: A 30-Day Guide to Building Intuition
+The PM's Playbook for AI Intuition
+Nov 1, 2025
+•
+Vikash Rungta
+17
+GenAI & Agentic AI Courses For Product Managers
+A place to find all my courses on Generative AI
+May 31, 2024
+•
+Vikash Rungta
+4
+See all
+Ready for more?
+Subscribe
+© 2026 Vikash Rungta
+·
+Privacy
+∙
+Terms
+∙
+Collection notice
+Start your Substack
+Get the app
+Substack
+is the home for great culture
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts

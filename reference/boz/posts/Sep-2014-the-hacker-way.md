@@ -1,0 +1,19 @@
+# The Hacker Way
+
+*Source: https://boz.com/articles/the-hacker-way*
+
+# The Hacker Way
+
+At its core, hacking is an approach to problem solving. It is both humble and optimistic in its conviction that anything that has been built, including by the hacker herself, can be improved. It is skeptical of complex solutions. It believes in people and thus assumes that if lots of people are working in one direction without success then the answer must lay in another direction. It believes that a good solution today is better than a great solution tomorrow. It does not believe that done is better than perfect so much as it believes that being done sooner is the best path to eventual perfection, though it is also skeptical that perfection exists. It believes in failing fast and sharing both successes and failures openly so that others can build on what has been done. Having conquered one problem, it doesn’t linger but rather moves quickly to the next challenge.
+
+Let us consider a concrete example. When we are getting close to launching products at Facebook we often move the product team out of our usual open floor plan and into a room so they can coordinate in even tighter loops. As a rapidly growing company, it can sometimes be hard to find the space for these so-called war rooms. Before the launch of our games platform we needed to move more people into a war room than could possibly fit in any floor plan. Not to be defeated, the team came in over the weekend and built a loft which could support desks on two levels. This is classic hacking. The team solved a problem on a dimension, quite literally, that was unexpected: when you think of a floor plan you think of width and depth, not height.
+
+Not to be outdone, a few years later when the Messenger team needed to move 15 people into a war room but the largest room we had could only fit 10 people any way you arranged it (including vertically), they cut a hole in the wall and made a bigger room. This example isn’t illustrative for its cleverness but rather for its power as a metaphor. As humans when we walk into a room we are inclined to perceive the four walls around us as permanent, immovable constraints. Some of them are — we should avoid demolishing structural walls — but most of them probably are not. The hacker, by being skeptical of even the most basic accepted truths, sees through walls in a way that others do not.
+
+To really drive the point home, let’s consider an example entirely outside the realm of engineering: happiness. We all know that we smile because we are happy. That is a causal relationship. What is surprising is that if we force ourselves to smile we can actually improve our mood. Smiling more makes you happier whether or not the smile was natural. The brain is a complex system which apparently struggles with causality and we can take advantage of that to achieve a better result for ourselves. It is cheating. It shouldn’t work. But it does. Hacking can literally make you happier.
+
+That isn’t to say that hacking is perfect for every problem. It struggles when a problem requires sustained focus over time. It is slow to realize when existing systems can’t be extended far enough and new systems are needed. It sometimes believes that just because a system can be hacked, it should be hacked. If you were to run a company, or lead a life, with hacking as your only toolkit you likely wouldn’t last long. My experience, however, is that these exceptions are more rare than most people expect.
+
+Hacking is one of the best possible ways to approach a problem. On this website, I hope to explore both the beauty and the boundaries of the hacker way.
+
+PublishedSep 9, 2014

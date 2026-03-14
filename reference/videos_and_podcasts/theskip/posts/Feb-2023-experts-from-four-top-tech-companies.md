@@ -1,0 +1,74 @@
+---
+title: "Experts from four top tech companies discuss career transitions"
+subtitle: "Advice from Calendly, ClickUp, Divvy Homes, and Rubrik head of products."
+date: 2023-02-05
+slug: experts-from-four-top-tech-companies
+url: https://theskip.substack.com/p/experts-from-four-top-tech-companies
+audience: everyone
+---
+
+# Experts from four top tech companies discuss career transitions
+
+*Advice from Calendly, ClickUp, Divvy Homes, and Rubrik head of products.*
+
+***(This article accompanies Episode 3 of the Skip podcast. [Listen](https://www.skip.community/cpo-round-table-1-calendly-rubrik-divvy-homes-and-clickup/) to it here for additional depth.)***
+
+Recently, I was fortunate to sit down and chat with four respected executives who have deep experience in product management. I happen to know these executives as part of the [Skip CPO community](https://www.linkedin.com/company/skip-community-for-cpos/), which I founded a few years back for heads of product at growth companies. From our vantage point, career transitions, especially during this time of year, are coming up frequently. So as many people are evaluating goals and what’s next, we debated the right framework and guidance.
+
+There is always a ton of prescriptive information out there, like, *Hey, if you're looking for a new gig, this is what you should do.* But there is a lot of learning to do based on what I call “career errors.” I asked the executives at the roundtable to think back around career errors – examples from their own experiences, or from those of people they’ve worked around. When did a decision backfire? When was staying a good thing versus a bad thing, or when did leaving turn out to be premature? What can we learn from mistakes that people have made?
+
+[Shirley Lin](https://www.linkedin.com/in/linshirley/), chief of product for Divvy Homes, gave a holistic view for career planning and transitioning – and how to hopefully prevent errors altogether. If you can define what criteria you’re currently seeking and recognize that they will evolve over the course of a career, then you can avoid making those transition mistakes. Growth opportunities, the ability to have an impact, smart and kind team members, an inspiring mission – the importance of these types of criteria in your framework will change depending on where you are in your career and what you want to achieve in a certain role. When one of these becomes less significant for you, it’s time to clarify what you want next and what attributes are in those next roles – and begin research into opportunities out there. Shirley spoke to her time at Airbnb. She pointed to a wonderful mission, equally great people, and 0-to-1 products, but after some time, she was inspired to apply what she had learned to a different scale of company and opportunity for impact.
+
+[Anneka Gupta](https://www.linkedin.com/in/annekagupta/), another member of our roundtable, had a salient addition. She is now chief of product for Rubrik, but she was also president of LiveRamp (with an 11-year overall tenure there) and teaches a product management course for Stanford MBAs. During her time at LiveRamp, the company went from 20 people to 1,500, and it went from being a startup to acquisition by a much larger company. There were a few cultural shifts and some ups and down while growing and scaling, to say the least.
+
+> Her insight: People want to jump ship when they get frustrated – but don’t. “Really try to work through it,” she suggested. The longevity and learning to solve for those frustrations is when the greatest growth – personally and professionally – can happen.
+
+**As an employer, do you pass on great people?**
+
+So what if someone wants to make a transition but is blocked from doing so? As a career adviser, from time to time I hear stories (and I’ve encountered it myself) of people crushing an interview and feeling like a top performer, but then they’re turned away and told, *It’s not you, it’s us*. Or, *You are amazing, but we don’t have the role*. This happens more with managers and senior folks. So … is there truth to that? Or is it a phony story?
+
+Based on our roundtable discussion, it appears there is truth to this. Although passing on a great candidate is pretty rare, there are times when it does come down to a mismatch, either in substance or in the scope of the role. And it can be a letdown – but [Briana Ings](https://www.linkedin.com/in/briana-ings/), vice president of product management at ClickUp, doesn’t want that to discourage anyone. No matter what, this is a time to build your network, build bridges. You never know what’s down the road – even an hour or a day later you could get a call that they have found a role for you. The roller coaster of the past few years, in particular, has led companies to add and subtract roles fairly frequently.
+
+I asked the group if it’s worth going back to a hiring manager or the recruiter for feedback if you have been turned down. Opinions were mixed because this is a real tightrope. You need to maintain those bridges, right? And ask yourself if you really want feedback, or if you have other motivation. Don’t think you’re going to refute the feedback and somehow convince a hiring manager that you’re a good fit. That’s going to be off-putting. Accept the feedback, use it toward your development, and find closure.
+
+[Annie Pearl](https://www.linkedin.com/in/anniepearl/), who is Calendly’s chief product officer, noted that a great company should want to ensure that the people it’s hiring are set up for success, and not be perceived as an organization that’s merely “talent collecting.” It’s crucial for a company to have well-positioned people on their teams, particularly when the market shifts as it has this past year. Annie would almost rather say *no* than *yes* to a good candidate (if it’s not a good fit) because it would be better for the trajectory of the candidate, and as an employer it would avoid garnering a reputation that you can’t make good people succeed.
+
+In fact, I joke that Shirley and Annie are both top performers I “*unsuccessfully* recruited.” The lesson here, Annie added, is to continue the relationship because it can lead to a future opportunity. She recently hired a head of product who had turned down her initial offer *two years ago*. They stayed in touch, however, and the timing proved right this go-around. And in the case with Shirley and Annie, while I have not worked with them, we’ve established this still-productive professional relationship.
+
+**So, what if you’re expecting?**
+
+I asked our roundtable to address a dilemma that can come up during any interviewing phase or possible role transition, and that has to do with additions to the family, pregnancy, et cetera. It could be that someone is mid-addition (pregnant or in the adoption phase) or considering adding to the family in the next 12 months. Do you avoid the job transition? The consensus, not surprisingly, is that it’s a very personal question and dependent on a person and their family’s expectations and, if they take a new role, their employer’s expectations. It also can hinge on if you’re early in your career (and your absence will have less of an overall impact) versus at the top (when you are heavily involved in company decisions and culture).
+
+Briana, who had a baby only a few months ago and is coming out of maternity leave, encountered this exact question. Her advice:
+
+> “You have to think about the impact waiting will have on your career trajectory.” There is no crystal ball – so it’s hard to know if staying or transitioning would lead to the same trajectory. But there are times when a new role really can accelerate a career. And if you do take that role, it’s important to discuss what the future will look like with your new boss. How long will you be in the role before you take your leave? And, if you’ve been there only a short time, will you still be eligible for the full leave? You’ll have to assess what to tackle first and what can “wait” until you come back. So while it can be challenging to make that leap amid a huge life change, you can do it!
+
+There is another angle – and that is if, like Anneka, you’ve been at one company for many years and are starting to stagnate, avoiding waiting can be overly cautious. Bet on yourself if you know you are *ready* to make a change no matter the circumstances. And, bottom line, when you signal that you are pregnant while job searching, how a company reacts will reveal its values and serve as a good test for the long-term relationship.
+
+I want to add that everyone among the roundtable expressed gratitude for all of the people who support them, such as spouses, grandparents, and nannies. Without them, big career transitions just might not be possible. As the saying goes, “It takes a village”!
+
+**What advice do you have for someone entering the market?**
+
+As I described in a [previous article](https://theskip.substack.com/p/crafting-a-successful-career-framework), before you begin any search, build a career framework. The group noted that knowing how to balance stage of company, quality of team, work-life balance, and dozens of other characteristics all require a solid understanding of potential companies and a great deal of self-awareness. To ensure that you are clear on your strengths and areas of development, consider interviewing past employers and colleagues to get a sense of your superpowers and challenges before you begin your search.
+
+As you learn more about a company, keep an open mind, but don’t waste time – your own or theirs – if you know fairly soon that a company or team is not a fit. Instead, organize these discussions into your network-building file for future use.
+
+Shirley advised going broad with your search at first and then narrowing it down as you talk to more people. Opportunities will shout *great fit!*, or they won’t. She also offered up a colorful image to reflect her approach to career planning and growth: “For my career, I’ve been a collector of experiences.” It’s true that building diverse experiences, whether by being at several companies or in several roles at one company, can aid career growth. This is linked to the “skip” concept that I think is really important: Consider the experiences you can gain, because those experiences build skills and show grit and help you prepare for the *next*, *next* job (not just the immediate one you’re considering).
+
+Recruiters can absolutely help with your search – be kind to them! It’s important to respond to LinkedIn messages and other emails. Reach out to friends and former co-workers who are in roles where you might want to work. Go to the websites of venture capitalists to learn about new startups. Build relationships where you can and continue to maintain them. Always keep your head up about potential opportunities. You never know when something might change with your current job, right? But don’t spend all of your time doing this, which could give the impression that you’re always less than satisfied or on the hunt. Testing the market can be beneficial – just don’t overdo it. And as you talk to friends and colleagues, don’t be transactional. View it as a way to share experiences, glean insight, and perhaps even help others.
+
+**You have some prospects – now what?**
+
+So you’ve decided you have enough gas in your tank to actually make a job transition, and you’ve gone so far as to get an interview. You’re now in a realm that can be hard to walk back from. There are a myriad of ways to prepare. In particular, as Anneka highlighted, going to the recruiter ahead of time can lead to greater understanding about what the various interviewers will care about and what gaps you may have in your background. Use this information to shape your responses – either to directly address the main points they’ll be focused on or segue into points you want to get across. The interview can serve as a “sales” job to pitch yourself and as a dialogue to assess whether there’s a match across many dimensions.
+
+> So what are the interviewers looking for? Impact, impact, impact. Come into an interview with good stories not just of *what* you have done – but with specific details describing *how* you did those things and what impact you had.
+
+Were you able to set a strategy that a team could rally around? How does this show what you can bring to the table and what environment you work best in? And be concise. Plus, have questions ready for the interviewer. You want to show it’s not all me, me, me and that you’re curious about the company’s people, problems, culture, and so forth. It also doesn’t hurt to check in with the interviewer. This doesn’t mean asking, *How am I doing?* It means asking, *Is this the level of depth you’re looking for?* In conjunction with interviews, some companies are using “take-home” problems. These provide a deeper look into a candidate’s writing skills, concision, and ability to articulate questions and do analysis. Shirley noted that such cases really tease out a candidate’s strengths and weaknesses.
+
+Of course, references can also speak to your skills. Though there is a certain amount of skepticism in them, because these are people you’ve pointed to, right? So companies will typically try to get to back channels. They’ll look to your LinkedIn profile for any folks you might have in common. And just consider everyone you’ve worked with as a reference. Definitely give a heads-up to anyone you think they might call. You can turn the tables as well, and do some sort of “research” yourself – even going so far as to interview the company’s customers to learn what they like or don’t like about their product.
+
+**What about an offer?**
+
+You’ve interviewed with a few companies, and now your train seems to be coming into the station on one of them – you have an offer. (See my previous article on maximizing your compensation [here](https://theskip.substack.com/p/tech-compensation-beyond-the-offer).) But how do you determine if a company is worth joining? Advice across the board from the roundtable is to double- and triple-down on the back-channel research. Look into the business model and the financials as if you were an investor, and learn as much as you can about your prospective manager. Dig into the company culture. A company may be great. A CEO may be great. But if your manager impedes your progress, you won’t grow and will likely be unhappy or feel stuck.
+
+Overall, the roundtable was a really productive way to flesh out some of the most important elements of career transitions and growth. Having been through many transitions themselves, these four executives definitely speak from experience!
