@@ -2,6 +2,15 @@
 
 This is the central entry point for your IC7/D1 interview preparation. It outlines the overall strategy, logical pairings, and prep execution.
 
+## 🎯 Phase 0: Top of the Funnel (Pipeline Generation)
+
+Before diving into the core framework, you need to generate high-quality inbound interest and pass the initial gating. See the **[Top of the Funnel Guide](./00_top_of_funnel.md)** for targeted strategies on:
+*   **Resume & LinkedIn**: Optimizing for IC7/D1 scale, scope, and inbound recruiter search indexing.
+*   **Recruiter Screens**: Bypassing low-level standard filters and validating role level/mandate.
+*   **Hiring Manager (HM) Calls**: Conducting peer-level consultative discussions and establishing mutual value.
+
+---
+
 ## The Framework
 
 ```
@@ -63,8 +72,9 @@ This is the central entry point for your IC7/D1 interview preparation. It outlin
 
 ## 💡 How to Use
 
-1. **Strategic Overview**: Review the 2-column grid above to understand how signals pair together.
-2. **Deep Ops**: Click into the individual pillar files above. Each contains **Weak vs Strong** dimension tables, **IC7/D1 signals**, and tactical frameworks.
+0. **Generate Pipeline**: Review the [Top of the Funnel Guide](./00_top_of_funnel.md) to build and manage inbound interest.
+1. **Strategic Overview**: Review the 2-column framework grid above to understand how signals pair together.
+2. **Deep Ops**: Click into the individual 8 pillar files above. Each contains **Weak vs Strong** dimension tables, **IC7/D1 signals**, and tactical frameworks.
 3. **Story Bank**: Use [Leadership & Drive (06)](./06_leadership_drive.md) to script and refine your "5 Essential Stories" in STAR+ format.
 4. **Resources**: Study the [How Google Works: 50 Ideas](../reference/books/how_google_works_50_ideas.md) doc for alignment on culture and decision-making logic.
 

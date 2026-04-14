@@ -1,0 +1,29 @@
+{
+  "skills": [
+    {
+      "name": "company_researcher",
+      "path": ".agents/skills/company_researcher",
+      "description": "Research a company's culture, values, leadership principles, and interview process for PM interview preparation."
+    },
+    {
+      "name": "job_scanner",
+      "path": ".agents/skills/job_scanner",
+      "description": "Scans career pages and Applicant Tracking Systems (ATS) for open Product Manager roles at target companies."
+    },
+    {
+      "name": "pm_principles_extractor",
+      "path": ".agents/skills/pm_principles_extractor",
+      "description": "Extract and synthesize PM interview-ready leadership principles from a directory of markdown files."
+    },
+    {
+      "name": "linkedin_optimizer",
+      "path": ".agents/skills/linkedin_optimizer",
+      "description": "Automates the ingestion of a resume and market trends to generate SEO-optimized LinkedIn profiles tailored for executive/IC7/D1 product roles."
+    },
+    {
+      "name": "web_capture",
+      "path": ".agents/skills/web_capture",
+      "description": "Headless browser based capture tool. Extracts multiple output formats including screenshot, HTML, Markdown, and JSON metadata from any web page."
+    }
+  ]
+}
