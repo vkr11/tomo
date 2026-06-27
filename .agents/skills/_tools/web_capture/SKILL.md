@@ -29,12 +29,12 @@ Invoke the script via `run_command`. You must supply **at least one** output fla
 python3 <SKILL_DIR>/scripts/capture.py <URL> [output flags] [options]
 ```
 
-Where `<SKILL_DIR>` is `/Users/vikashrungta/code/tomo/.agents/skills/web_capture`.
+Where `<SKILL_DIR>` is `/Users/vikashrungta/code/tomo/.agents/skills/_tools/web_capture`.
 
 ### Examples
 
 ```bash
-SKILL=/Users/vikashrungta/code/tomo/.agents/skills/web_capture/scripts/capture.py
+SKILL=/Users/vikashrungta/code/tomo/.agents/skills/_tools/web_capture/scripts/capture.py
 
 # Screenshot only
 python3 $SKILL "https://example.com" -i screenshot.png

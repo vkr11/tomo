@@ -1,0 +1,13 @@
+{
+  "entries": [
+    { "path": "1_discover/job_scanner" },
+    { "path": "1_discover/company_researcher" },
+    { "path": "2_prepare/linkedin_optimizer" },
+    { "path": "2_prepare/resume_tailor" },
+    { "path": "2_prepare/story_builder" },
+    { "path": "3_apply/application_writer" },
+    { "path": "4_interview/interview_prep" },
+    { "path": "_tools/web_capture" },
+    { "path": "_tools/apify_runner" }
+  ]
+}

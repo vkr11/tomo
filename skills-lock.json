@@ -1,34 +1,58 @@
 {
   "skills": [
     {
-      "name": "company_researcher",
-      "path": ".agents/skills/company_researcher",
-      "description": "Research a company's culture, values, leadership principles, and interview process for PM interview preparation."
-    },
-    {
       "name": "job_scanner",
-      "path": ".agents/skills/job_scanner",
-      "description": "Scans career pages and Applicant Tracking Systems (ATS) for open Product Manager roles at target companies."
+      "path": ".agents/skills/1_discover/job_scanner",
+      "phase": "1_discover",
+      "description": "Scans career pages and ATS for open PM roles at target companies."
     },
     {
-      "name": "pm_principles_extractor",
-      "path": ".agents/skills/pm_principles_extractor",
-      "description": "Extract and synthesize PM interview-ready leadership principles from a directory of markdown files."
+      "name": "company_researcher",
+      "path": ".agents/skills/1_discover/company_researcher",
+      "phase": "1_discover",
+      "description": "Research a company's culture, values, leadership principles, and interview process."
     },
     {
       "name": "linkedin_optimizer",
-      "path": ".agents/skills/linkedin_optimizer",
-      "description": "Automates the ingestion of a resume and market trends to generate SEO-optimized LinkedIn profiles tailored for executive/IC7/D1 product roles."
+      "path": ".agents/skills/2_prepare/linkedin_optimizer",
+      "phase": "2_prepare",
+      "description": "Optimize LinkedIn profiles for maximum recruiter inbound and feed visibility."
+    },
+    {
+      "name": "resume_tailor",
+      "path": ".agents/skills/2_prepare/resume_tailor",
+      "phase": "2_prepare",
+      "description": "Build a JD-tailored resume and score its match against a target role."
+    },
+    {
+      "name": "story_builder",
+      "path": ".agents/skills/2_prepare/story_builder",
+      "phase": "2_prepare",
+      "description": "Generate interview-ready behavioral stories using the Saga Method."
+    },
+    {
+      "name": "application_writer",
+      "path": ".agents/skills/3_apply/application_writer",
+      "phase": "3_apply",
+      "description": "Write a tailored cover letter for a specific job description."
+    },
+    {
+      "name": "interview_prep",
+      "path": ".agents/skills/4_interview/interview_prep",
+      "phase": "4_interview",
+      "description": "Prepare for a specific company interview with dossiers, frameworks, and story rehearsal."
     },
     {
       "name": "web_capture",
-      "path": ".agents/skills/web_capture",
-      "description": "Headless browser based capture tool. Extracts multiple output formats including screenshot, HTML, Markdown, and JSON metadata from any web page."
+      "path": ".agents/skills/_tools/web_capture",
+      "phase": "_tools",
+      "description": "Headless browser capture tool. Extracts screenshots, HTML, Markdown, and metadata from any web page."
     },
     {
       "name": "apify_runner",
-      "path": ".agents/skills/apify_runner",
-      "description": "Model Context Protocol (MCP) server for Apify. Run scrapers, crawlers, and automation tools on Apify, monitor runs, and extract dataset results."
+      "path": ".agents/skills/_tools/apify_runner",
+      "phase": "_tools",
+      "description": "MCP server for Apify. Run scrapers, crawlers, and automation tools on the Apify platform."
     }
   ]
 }
