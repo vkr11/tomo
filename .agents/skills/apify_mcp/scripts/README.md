@@ -49,7 +49,7 @@ Add the server definition to your Claude Desktop configuration file (typically l
 {
   "mcpServers": {
     "apify": {
-      "command": "/Users/vikashrungta/code/tomo/apify-mcp/run.sh",
+      "command": "/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts/run.sh",
       "env": {
         "APIFY_TOKEN": "your_apify_api_token_here"
       }
@@ -63,8 +63,8 @@ Add the server definition to your Claude Desktop configuration file (typically l
 1. Add a new MCP server.
 2. Set **Name** to `apify`.
 3. Set **Type** to `command`.
-4. Set **Command** to `/Users/vikashrungta/code/tomo/apify-mcp/run.sh`.
-5. *(Make sure `APIFY_TOKEN` is defined in a `.env` file in the `/Users/vikashrungta/code/tomo/apify-mcp` directory so that the wrapper loads it automatically.)*
+4. Set **Command** to `/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts/run.sh`.
+5. *(Make sure `APIFY_TOKEN` is defined in a `.env` file in the `/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts` directory so that the wrapper loads it automatically.)*
 
 ---
 
