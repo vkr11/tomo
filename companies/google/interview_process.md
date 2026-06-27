@@ -20,7 +20,7 @@
 |---|---|---|---|
 | 1-2 | Product Manager | **Product Design / Product Sense**: Identify user problems, generate innovative (10x) solutions, craft product vision, demonstrate empathy and prioritization. | Focus on the User, Great just isn't good enough |
 | 1-2 | Product Manager | **Analytical Thinking / Strategy**: Derive insights from ambiguity, perform estimation (Fermi problems), conduct metric deep dives (root cause analysis), reason from first principles. | Fast is better than slow |
-| 1 | Engineering Manager / SWE | **Technical / System Design**: Assess technical literacy, discuss system architecture at a high level, understand trade-offs, and assess technical feasibility. | (Technical fluency) |
+| 1 | Engineering Manager / SWE | **Technical / AI System Design**: Assess technical literacy. Often framed as an "AI Product Sense" or "Technical Strategy" round. Expect to discuss system architecture, understand ML trade-offs (e.g., latency vs. quality of model), RAG pipelines, and cross-functional deployment. | (Technical fluency) |
 | 1 | PM or XFN Partner | **Behavioral / Leadership & Googleyness**: Navigate conflict, lead without authority, make ethical judgments, foster inclusivity, and demonstrate intellectual humility. | Googleyness, Democracy on the web works |
 | 1 (Optional) | PM | **Craft & Execution**: Project management, agile execution, and making decisions under constraints. | Fast is better than slow |
 
@@ -28,7 +28,14 @@
 
 ## Special Rounds
 
-**No explicit "Bar Raiser" round like Amazon.** Google assesses "Googleyness" objectively across all rounds, though one behavioral round usually focuses heavily on it. Technical rounds for PMs are notorious at Google; while you don't need to write code, you must be able to design a scalable system architecture on a whiteboard/virtual doc and intelligently debate trade-offs (e.g., latency vs. storage) with an engineer.
+**1. No explicit "Bar Raiser" round like Amazon.** Google assesses "Googleyness" objectively across all rounds, though one behavioral round usually focuses heavily on it.
+
+**2. The AI / Machine Learning Round (New for 2025/2026):**
+The technical bar for Google PMs now heavily indexes on AI systems. This is often framed as an **"AI Product Sense" or "Technical Strategy" round**. You don't build models from scratch, but you are evaluated on:
+*   **AI Product Intuition:** Understand capabilities/limitations (latency vs accuracy, precision vs recall, hallucinations, prompt injection).
+*   **Systems Thinking:** High-level understanding of how models are deployed, vector databases, RAG (Retrieval-Augmented Generation), and inference pipelines.
+*   **Executing with AI:** Translating user problems into ML constraints, preventing data leakage, addressing ethics/safety, and evaluating metrics (False Positives vs. False Negatives).
+*   *Example Prompt:* "Design an AI-powered 'Study Buddy'. How do you handle hallucinations? How do you measure its success?"
 
 ---
 
@@ -46,7 +53,7 @@
 ## Gaps & Caveats
 
 - **Leveling**: Search results did not explicitly map interview differences between L5 vs L6 (Senior) vs L7 (Principal). Generally, higher levels face tougher Strategy/Execution rounds and are expected to demonstrate broader cross-functional influence.
-- **Recent AI Shifts**: With Google's massive pivot to "AI-First" (Gemini, Project Astra) in 2025/2026, candidates should expect Product Design rounds to heavily feature GenAI use cases and prompt-based interfaces.
+- **Role Specifics**: If interviewing specifically for Google DeepMind or a highly specialized Applied AI role, the ML technical bar will be significantly higher than the generalist PM AI round described above.
 
 ---
 
