@@ -1,5 +1,5 @@
 ---
-name: apify_mcp
+name: apify_runner
 description: Model Context Protocol (MCP) server for Apify. Run scrapers, crawlers, and automation tools on Apify, monitor runs, and extract dataset results. Use when you need to run web scrapers, crawlers, or APIs hosted on Apify.
 ---
 
@@ -9,7 +9,7 @@ An MCP server allowing AI assistants (like Claude Desktop or Cursor) to run scra
 
 ## Location
 All server scripts and environments are located at:
-`/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts/`
+`/Users/vikashrungta/code/tomo/.agents/skills/apify_runner/scripts/`
 
 ## Setup & Run Instructions
 
@@ -25,7 +25,7 @@ Add to your `claude_desktop_config.json`:
 {
   "mcpServers": {
     "apify": {
-      "command": "/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts/run.sh",
+      "command": "/Users/vikashrungta/code/tomo/.agents/skills/apify_runner/scripts/run.sh",
       "env": {
         "APIFY_TOKEN": "your_apify_api_token_here"
       }
@@ -38,8 +38,8 @@ Add to your `claude_desktop_config.json`:
 1. Add a new MCP server.
 2. Set **Name** to `apify`.
 3. Set **Type** to `command`.
-4. Set **Command** to `/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts/run.sh`.
-5. *(Make sure `APIFY_TOKEN` is defined in a `.env` file in the `/Users/vikashrungta/code/tomo/.agents/skills/apify_mcp/scripts` directory so that the wrapper loads it automatically.)*
+4. Set **Command** to `/Users/vikashrungta/code/tomo/.agents/skills/apify_runner/scripts/run.sh`.
+5. *(Make sure `APIFY_TOKEN` is defined in a `.env` file in the `/Users/vikashrungta/code/tomo/.agents/skills/apify_runner/scripts` directory so that the wrapper loads it automatically.)*
 
 ---
 

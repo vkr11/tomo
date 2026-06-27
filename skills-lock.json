@@ -26,8 +26,8 @@
       "description": "Headless browser based capture tool. Extracts multiple output formats including screenshot, HTML, Markdown, and JSON metadata from any web page."
     },
     {
-      "name": "apify_mcp",
-      "path": ".agents/skills/apify_mcp",
+      "name": "apify_runner",
+      "path": ".agents/skills/apify_runner",
       "description": "Model Context Protocol (MCP) server for Apify. Run scrapers, crawlers, and automation tools on Apify, monitor runs, and extract dataset results."
     }
   ]
